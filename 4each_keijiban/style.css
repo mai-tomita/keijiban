@@ -1,0 +1,136 @@
+.head_logo {
+    margin-top: 0px;
+    margin-left: 0px;
+    
+}
+
+.head_box {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;     
+}
+
+
+.head_box li{
+    float:left;
+    list-style: none;
+    margin-left: 50px;
+    line-height: 50px;
+}
+
+main {
+    clear: both;
+}
+
+.main_container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.left {
+    float: left;
+    width: 60%;
+    margin-right: 50px;
+    margin-top: 10px;
+    
+    
+}
+
+.right {
+    float: left;
+    width: 35%;
+    margin-top: 10px;
+    
+}
+
+
+h1 { 
+    width:100%;
+    border-left: 8px solid black;
+    border-bottom: 2px solid black;
+}
+
+
+
+.nyuryoku h3 { 
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    border-left: solid #b22222 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width: 500px;
+    font-size: 20px;  
+}
+
+
+form, .hyoji {
+    margin-top: 30px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width:100%;
+}
+
+form div {
+    padding: 15px;
+}
+
+.text,textarea {
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.soshin {
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: darkgray;
+    border-bottom: solid 2px gray;
+}
+
+.hyoji h3 {
+    border-bottom: 2px solid #ebebeb;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    
+}
+
+p, .handlename {
+    margin-left: 2.5%;
+}
+
+h2 {
+    width: 100%;
+    border-bottom: 2px dotted black;
+}
+
+.list1 {
+    margin-left: -10px;
+    margin-top: 30px;
+    margin-bottom: -10px;
+}
+
+.list1 li {
+    list-style: none;
+    line-height: 35px;
+}
+
+footer {
+    clear: left;
+    display: inline-block;
+    margin-top: 50px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    line-height: 50px;
+    
+    
+}
